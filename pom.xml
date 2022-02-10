@@ -277,7 +277,7 @@
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-core</artifactId>
             <!-- todo 为什么要用4.2.3，而不是统一使用${hibernate.version} -->
-			<version>4.2.3.Final</version>
+			<version>5.4.24.Final</version>
 		</dependency>
 		<dependency>
 			<groupId>org.hibernate</groupId>
